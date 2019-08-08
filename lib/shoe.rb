@@ -8,7 +8,7 @@ class Shoe
   end
   
   def cobble
-    puts "the shoe has to be repaired"
+    
   end
   
 end
